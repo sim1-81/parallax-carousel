@@ -50,12 +50,14 @@ var cnfg = {
             cnfg.nextItem = $('#parallax ul').find('li:nth-child(2)');
             cnfg.currItem.addClass('visible');
             cnfg.nextItem.addClass('next');
-            cnfg.containerHeight = $('#parallax ul li').height();
-            cnfg.containerWidth = $('#parallax ul').width();
+            cnfg.containerHeight = cnfg.height;
+            cnfg.containerWidth = cnfg.width;
             $('#parallax ul').height(cnfg.containerHeight).width(cnfg.containerWidth);
 
             cnfg.nextItem.find('.parallax-item').each(function () {
                 $(this).css({marginTop: '+=' + ($(this).data('move')) + '%'});
+                $(this).width(cnfg.containerWidth);
+                $(this).height(cnfg.containerHeight);
             });
 
             cnfg.length = $('#parallax ul li').length;
