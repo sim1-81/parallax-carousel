@@ -2,6 +2,7 @@
 a fancy carousel with parallax effect
 
 @demo: http://www.alesweb.it/demo/parallax-carousel/
+
 @donate: https://www.paypal.me/SAlessandrini
 
 jQuery Carousel with Parallax v0.1
@@ -15,6 +16,8 @@ Licensed under the The GNU General Public License v3.0
 @version 0.1.0
  
 @requires jquery.js (v 1.2.x minimum)
+
+@compatibility IE7 and higher
 
 TERMS OF USE - jQuery Carousel with Parallax
 Open source under The GNU General Public License v3.0
