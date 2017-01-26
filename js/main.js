@@ -14,7 +14,7 @@
  *
  *
  * TERMS OF USE - jQuery Carousel with Parallax
- * Open source under the FreeBSD License.
+ * Open source under The GNU General Public License v3.0
  *
  * Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
  *
