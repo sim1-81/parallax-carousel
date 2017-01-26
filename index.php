@@ -14,7 +14,7 @@
                     <div class="parallax-item bg3" data-move="50"></div>
                     <div class="parallax-item bg4" data-move="65"></div>
                     <div class="parallax-item bg5" data-move="85"></div>
-                    <div class="text-container" data-move="90"></div>
+                    <div class="text-container" data-move="85"></div>
                 </li>
                 <li>
                     <div class="parallax-item bg1" data-move="15"></div>
