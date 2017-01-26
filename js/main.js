@@ -2,7 +2,7 @@
  * jQuery Carousel with Parallax v0.1
  *
  * Copyright (c) 2017 Simone Alessandrini
- * Licensed under the FreeBSD License (See terms below)
+ * Licensed under the The GNU General Public License v3.0
  *
  * @author Simone Alessandrini
  *
