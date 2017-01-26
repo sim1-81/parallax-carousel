@@ -9,6 +9,7 @@ jQuery Carousel with Parallax v0.1
 
 Copyright (c) 2017 Simone Alessandrini
 Licensed under the The GNU General Public License v3.0
+
 @author Simone Alessandrini
 
 @projectDescription    jQuery plugin to create a parallax effect within carousel elements
